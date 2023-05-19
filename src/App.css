@@ -1,0 +1,27 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+    background-color: rgb(28, 49, 49);
+    color: white;
+    
+
+}
+input{
+    width: 300px;
+    height: 30px;
+    border-radius: 20px;
+    font-size: 25px;
+    padding: 10px;
+    box-shadow: 10px 4px 8px 8px rgb(0,0,0,0.75);
+    margin-bottom: 20px;
+}
+input:hover{
+    border-color: aqua;
+}
+p{
+font-size: 20px;
+margin: 5px
+}
